@@ -1,0 +1,3 @@
+XMLHttpRequest (GET) + Promises
+
+Criando um site com XML e puxando outras paginas com o metodo GET...
