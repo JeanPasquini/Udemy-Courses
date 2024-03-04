@@ -1,0 +1,3 @@
+API Fetch
+
+Fazendo as mesmas caracteristicas do site anterior, porém utilizando a API Fetch.

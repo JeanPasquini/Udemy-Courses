@@ -1,0 +1,3 @@
+API Fetch & Axios .Json
+
+Buscando dados de um arquivo .Json juntamente com API Fetch e Axios.

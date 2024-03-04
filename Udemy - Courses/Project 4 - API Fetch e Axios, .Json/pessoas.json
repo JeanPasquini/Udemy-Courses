@@ -1,0 +1,42 @@
+[
+    {
+        "nome" : "Jean",
+        "email" : "jean@hotmail.com",
+        "salario": 27211,
+        "estado": "SP",
+        "empresa": "Facebook",
+        "idade": 34,
+        "sexo" : "",
+        "cpf": "123.456.789-11"
+    },
+    {
+        "nome" : "Kelly",
+        "email" : "kelly@hotmail.com",
+        "salario": 96512,
+        "estado": "SP",
+        "empresa": "Facebook",
+        "idade": 25,
+        "sexo" : "",
+        "cpf": "123.456.789-11"
+    },
+    {
+        "nome" : "Rafael",
+        "email" : "rafael@hotmail.com",
+        "salario": 31212,
+        "estado": "SP",
+        "empresa": "Facebook",
+        "idade": 27,
+        "sexo" : "",
+        "cpf": "123.456.789-11"
+    },
+    {
+        "nome" : "Pablo",
+        "email" : "pablo@hotmail.com",
+        "salario": 11526,
+        "estado": "SP",
+        "empresa": "Facebook",
+        "idade": 22,
+        "sexo" : "",
+        "cpf": "123.456.789-11"
+    }
+]
