@@ -1,0 +1,4 @@
+Modules escrever e ler
+
+Escrevendo em um arquivo .JSON variaveis desejadas, podendo as ler conforme o usuarios queira
+ 
